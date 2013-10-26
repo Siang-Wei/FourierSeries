@@ -64,7 +64,7 @@ int main()
 	return 0;
 }
 ```
-[github](https://github.com/Siang-Wei/FourierSeries/blob/master/Fourier%20series_%E7%AC%AC%E4%BA%8C%E9%A1%8C%E6%B3%A2%E5%BD%A2%E5%9C%96.jpg)
+![image](https://raw.github.com/Siang-Wei/FourierSeries/master/Fourier%20series_%E7%AC%AC%E4%BA%8C%E9%A1%8C%E6%B3%A2%E5%BD%A2%E5%9C%96.jpg)
 
 ##Fourier series_3
 
@@ -95,4 +95,4 @@ int main()
 	return 0;
 }
 ```
-[github](https://github.com/Siang-Wei/FourierSeries/blob/master/Fourier%20series_%E7%AC%AC%E4%B8%89%E9%A1%8C%E6%B3%A2%E5%BD%A2%E5%9C%96.jpg)
+![image](https://raw.github.com/Siang-Wei/FourierSeries/master/Fourier%20series_%E7%AC%AC%E4%B8%89%E9%A1%8C%E6%B3%A2%E5%BD%A2%E5%9C%96.jpg)
