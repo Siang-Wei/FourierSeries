@@ -3,8 +3,8 @@ FourierSeries
 
 computer programming homework
 
-// Fourier series_1.cpp : 定義主控台應用程式的進入點。
-//
+Fourier series_1
+
 
 ```
 #include "stdafx.h"
