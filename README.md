@@ -3,17 +3,17 @@ FourierSeries
 
 computer programming homework
 
-##include "stdafx.h"
-##include <iostream>
-##include <iomanip> 
-##include <cmath>
-##include <fstream>
+#include "stdafx.h"
+#include <iostream>
+#include <iomanip> 
+#include <cmath>
+#include <fstream>
 
 using namespace std;
 
 int main()
 {
-	'''double pi=3.14,a;
+	double pi=3.14,a;
 	fstream file;
 	file.open(" Fourier series_1.txt",ios::out);
 	if(file.fail())
@@ -27,5 +27,5 @@ int main()
 		}
 	}
 	file.close();
-	return 0;'''
+	return 0;
 }
